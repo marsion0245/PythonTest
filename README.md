@@ -1,5 +1,5 @@
 # pythonTest
-Project to play with Python.
-Testing Codenvy IDE.
-
+=======
+project to play with Python
+Hello, world
 
